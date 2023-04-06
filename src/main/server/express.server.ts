@@ -1,4 +1,3 @@
-import { log } from "console";
 import { createApp } from "../config/express.config";
 import { serverEnv } from "../../app/envs/server.env";
 
